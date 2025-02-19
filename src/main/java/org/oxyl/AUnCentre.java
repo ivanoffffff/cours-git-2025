@@ -18,4 +18,5 @@ abstract class AUnCentre {
     public boolean isAuCentre() {
         return centre.getX()==0 && centre.getY()==0;
     }
+    //je test le l'envoi sur github
 }
